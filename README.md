@@ -7,3 +7,5 @@ shodan과 censys api를 활용해 ip나 네트워크 ip 정보가 주어진면 �
 ```
 python gather.py
 ```
+## 버전
+초기 버전 - 틀만 잡음
